@@ -1,1 +1,0 @@
-creating scripts for permission
